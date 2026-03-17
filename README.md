@@ -1,4 +1,3 @@
-﻿# Asset-Master-Creation
 # Confluence IT Purchase Scraper
 
 **Version:** `v0.1.1`  
